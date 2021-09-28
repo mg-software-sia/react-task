@@ -3,6 +3,11 @@ The purpose of this task is to better understand applicant's frontend developmen
 
 Task is related to Holiday package (flight + hotel + transfer) booking system.
 
+## Requirements
+1. Use ReactJS.
+2. Use HTML/CSS.
+3. Create a private repository and give **mg-code** user access to it.  Then send repository information to e-mail.
+
 ## Objective 1
 Implement experience of holiday package search form.
 1. Form has three filters: Departure city, Destination, Departure dates.
@@ -22,8 +27,3 @@ Implement experience of holiday package search form.
 If user opens filter on mobile device, then show filter in full screen layout.
 
 ![Responsive filter](/images/responsive.png)
-
-## Requirements
-1. Use ReactJS.
-2. Use HTML/CSS.
-3. Create a private repository and give **mg-code** user access to it.  Then send repository information to e-mail.
