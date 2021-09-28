@@ -1,1 +1,1 @@
-# react-task
+# MG Software ReactJS task
