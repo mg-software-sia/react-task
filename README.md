@@ -13,15 +13,15 @@ Implement experience of holiday package search form.
 6. You can use same SVG for all flags. Screenshots are informative.
 7. You can use any react datepicker package. Datepicker does not need styling.
 
-![Form design](/img/form.png)
-![Departure city](/img/departure-city.png)
-![Destination](/img/destination.png)
-![Departure dates](/img/dates.png)
+![Form design](/images/form.png)
+![Departure city](/images/departure-city.png)
+![Destination](/images/destination.png)
+![Departure dates](/images/dates.png)
 
 ## Objective 2 (Optional, but good to have)
 If user opens filter on mobile device, then show filter in full screen layout.
 
-![Responsive filter](/img/responsive.png)
+![Responsive filter](/images/responsive.png)
 
 ## Requirements
 1. Use ReactJS.
