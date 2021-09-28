@@ -6,4 +6,4 @@ The purpose of this task is to better understand applicant's frontend developmen
 ## Requirements
 1. Use ReactJS.
 2. Use HTML/CSS.
-3. Make a private fork from this repository. Give mg-code user access to it and send repository url to e-mail.
+3. Create a private repository and give **mg-code** user access to it.  Then send repository information to e-mail.
